@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab 03-Check Omelko</string>
+    <string name="EnabledText1">Apple</string>
+    <string name="EnabledText2">Strawberry</string>
+    <string name="EnabledText3">Blueberry</string>
+    <string name="EnabledText4">Potatoes</string>
+    <string name="CountText1">0</string>
+    <string name="OutputToast">Toast</string>
+    <string name="OutputWindow">Window</string>
+    <string name="Count">Calculate</string>
+    <string name="TextError">Parameter is not supported</string>
+    <string name="TextCost">Cost</string>
+    <string name="TextAmount">Amount</string>
+    <string name="TextOut">Sum output</string>
+</resources>
